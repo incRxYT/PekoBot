@@ -1,0 +1,2 @@
+# PekoBot
+A gd bot
